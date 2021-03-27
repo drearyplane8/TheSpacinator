@@ -1,0 +1,3 @@
+C:/Users/chasj/CLionProjects/TheSpacinator/cmake-build-debug/CMakeFiles/TheSpacinator.dir
+C:/Users/chasj/CLionProjects/TheSpacinator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chasj/CLionProjects/TheSpacinator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

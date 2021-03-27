@@ -1,0 +1,3 @@
+"D:\Program Files\CLION\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\TheSpacinator.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\TheSpacinator.dir/objects.a @CMakeFiles\TheSpacinator.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\TheSpacinator.dir/objects.a -Wl,--no-whole-archive  -o TheSpacinator.exe -Wl,--out-implib,libTheSpacinator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TheSpacinator.dir\linklibs.rsp
